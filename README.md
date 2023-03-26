@@ -1,4 +1,3 @@
-# aws-data-warehouse
 # Project: Data Warehouse
 
 The goal of this project is to build an ETL pipeline for a database hosted on Amazon Redshift. The pipeline loads data from Amazon S3 into staging tables on Redshift and executes SQL statements to create analytics tables from these staging tables.
